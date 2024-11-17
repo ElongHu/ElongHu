@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ElongHu
-- 👀 I’m interested in Causal Inference/NLP/Datascience
+- 👀 I’m interested in Causal Inference/NLP/Datascience/BigData
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
